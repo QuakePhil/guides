@@ -3,6 +3,8 @@ Guides
 
 Guides for getting things done, programming well, and programming in style.
 
+*This is a prescription, not a tip.*
+
 * [Code Review](/code-review)
 
 High level guidelines:

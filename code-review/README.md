@@ -6,6 +6,12 @@ A guide for reviewing code and having your code reviewed.
 Everyone
 --------
 
+_"You don’t need to be a genius, but you have to be disciplined"_
+
+**In order to make sure we keep reviewing code and turn it into a habit it is a good practice to set a timer for everyday after the standup (~10am), and before you leave the office (4pm), so you remember to go to github and look if any Pull Request is assigned to you.**
+
+**Keep in mind that it does not matter which timezone you are. Do it in your own timezone, but do it.**
+
 * Accept that many programming decisions are opinions. Discuss tradeoffs, which
   you prefer, and reach a resolution quickly.
 * Ask questions; don't make demands. ("What do you think about naming this

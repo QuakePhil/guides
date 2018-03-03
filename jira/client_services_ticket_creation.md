@@ -29,22 +29,30 @@ Here are some examples:
 
 _Bad_:
  > Automate Statement Data Load
+
 _Better_:
  > As an ENGINEER I want to automate statement data load
+
 _Best_:
  > As an ENGINEER I want to automate the loading of statement data from Siren to Oracle (STMPRD)
 
+
 _Bad_:
  > Use British Pounds for Voucher
+
 _Better_:
  > As an ENGINEER I want to generate vouchers with British Pounds
+
 _Best_:
  > As a PUBLISHER I want vouchers from MINT payments to use British Pounds
 
+
 _Bad_:
  > Make description of statement types
+
 _Better_:
  > As a CLIENT I want to download a description of what a statement is
+
 _Best_:
  > As a PUBLISHER I want to be able to download a description for each type of statement that is available to me
 
@@ -53,22 +61,30 @@ _Best_:
 _Bad_:
  > BUG:
  > Eight Five Dollar and Two Thousand, One Hundred and Sixteen Cents payment
+
 _Better_:
  > BUG! As a BUSINESS USER payment vouchers are broken in QA
+
 _Best_:
  > BUG! As a PUBLISHER when I download a voucher in QA, the word amount on the check is incorrect
 
+
 _Bad_:
  > LR - Empty Regular User Reports
+
 _Better_:
  > BUG! As a USER reports are empty
+
 _Best_:
  > BUG! As a PUBLISHER when I download a License Report in QA, the report is empty.
 
+
 _Bad_:
  > BUG! Writer data is wrong
+
 _Better_:
  > BUG! Writer data possibly incorrect for compositions belonging to Carlin America INC (P47652)
+
 _Best_:
  > BUG! As a PUBLISHER when I view a composition in the roydash in QA, the writers for the composition are incorrect.
 
@@ -89,6 +105,7 @@ Here's an example:
 
 _Bad_:
  >
+
 _Better_:
  > Using fbrito@sesac on QA with check 1239783 the total amount is 87123.23 instead of 87123.24
 

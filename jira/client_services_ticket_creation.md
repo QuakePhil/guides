@@ -8,18 +8,18 @@ When opening a ticket, the first step is deciding if you are reporting a TASK or
 
 Second, in order to add as much at-a-glance information to the ticket as possible there are 3 questions that should be
 answered by the title:
-- *WHO*?
-- *WHAT*?
-- *WHERE*?
+- **WHO**?
+- **WHAT**?
+- **WHERE**?
 These should be formatted in the following manner:
-- TASK: "As a *WHO* I want to *WHAT* in *WHERE*"
-- BUG: "BUG! As a *WHO* *WHAT* in *WHERE* *WHAT*"
+- TASK: "As a **WHO** I want to **WHAT** in **WHERE**"
+- BUG: "BUG! As a **WHO** **WHAT** in **WHERE** **WHAT**"
 
-Some standard values for *WHO* are PUBLISHER, LICENSEE, BUSINESS USER, and ENGINEER. Other values can be used, but these
+Some standard values for **WHO** are PUBLISHER, LICENSEE, BUSINESS USER, and ENGINEER. Other values can be used, but these
 should cover most use cases. Try to think of who is ultimately going to be affected by the issue at hand. You may be
 working on it, but does it directly impact you, or perhaps someone else downstream?
 
-Bugs tend to have two verb clauses, that's why there are two "*WHAT*"s in the BUG format,
+Bugs tend to have two verb clauses, that's why there are two "**WHAT**"s in the BUG format,
 i.e. "I did ____ in QA and it ______"
 
 Here are some examples:

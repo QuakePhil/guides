@@ -25,7 +25,7 @@ i.e. "I did ____ in QA and it ______"
 
 Here are some examples:
 
-#### TASK
+### TASK
 
 _Bad_:
  > Automate Statement Data Load
@@ -53,8 +53,9 @@ _Better_:
 
 _Best_:
  > As a PUBLISHER I want to be able to download a description for each type of statement that is available to me
+---
 
-#### BUG
+### BUG
 
 _Bad_:
  > BUG:

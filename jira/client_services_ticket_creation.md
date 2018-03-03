@@ -11,6 +11,7 @@ answered by the title:
 - **WHO**?
 - **WHAT**?
 - **WHERE**?
+
 These should be formatted in the following manner:
 - TASK: "As a **WHO** I want to **WHAT** in **WHERE**"
 - BUG: "BUG! As a **WHO** **WHAT** in **WHERE** **WHAT**"

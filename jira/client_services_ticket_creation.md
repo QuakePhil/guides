@@ -25,7 +25,7 @@ i.e. "I did ____ in QA and it ______"
 
 Here are some examples:
 
-TASK
+#### TASK
 
 _Bad_: Automate Statement Data Load
 _Better_: As an ENGINEER I want to automate statement data load
@@ -39,7 +39,7 @@ _Bad_: Make description of statement types
 _Better_: As a CLIENT I want to download a description of what a statement is
 _Best_: As a PUBLISHER I want to be able to download a description for each type of statement that is available to me
 
-BUG
+#### BUG
 
 _Bad_: BUG: Eight Five Dollar and Two Thousand, One Hundred and Sixteen Cents payment
 _Better_: BUG! As a BUSINESS USER payment vouchers are broken in QA

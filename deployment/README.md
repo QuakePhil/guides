@@ -7,15 +7,15 @@ Guides for making things run smoothly.
 
 There are three deployment environments for the backend, DEV/DEMO, QA, and PROD. Their URIs are:
 
-DEV/DEMO: https://demo-api.mintservices.com
-QA: http://internal-lb-hfa-us-e-1-t-int-vpc-hub-api-2080413110.us-east-1.elb.amazonaws.com
-PROD: https://api.sesac.com
+- DEV/DEMO: https://demo-api.mintservices.com
+- QA: http://internal-lb-hfa-us-e-1-t-int-vpc-hub-api-2080413110.us-east-1.elb.amazonaws.com
+- PROD: https://api.sesac.com
 
 The service registry (where the list of available backend applications is kept) for each environment is at:
 
-DEV/PROD: http://10.44.7.164:8082/registry
-QA: http://10.24.51.50:8082/registry
-PROD: http://10.40.1.225:8082/registry
+- DEV/PROD: http://10.44.7.164:8082/registry
+- QA: http://10.24.51.50:8082/registry
+- PROD: http://10.40.1.225:8082/registry
 
 Applications will be registered with a title like: `go.micro.srv.statements`. The application's name is the part without
 `go.micro.srv`, e.g. `statements`. If an application presents a REST interface, using this name, it will be available at

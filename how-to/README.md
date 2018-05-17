@@ -55,5 +55,9 @@ replaced, scaled, etc, without bringing down the entire network.
 > Many of our applications provide the ability to quickly browse and filter data. We implement this by using Solr as our
 search index.
 
+# Languages
+
+- [ruby]('./ruby.md')
+
 # Coding Guidelines
 - https://robots.thoughtbot.com/sandi-metz-rules-for-developers

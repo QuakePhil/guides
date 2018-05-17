@@ -57,7 +57,7 @@ search index.
 
 # Languages
 
-- [ruby]('./ruby.md')
+- [ruby](/ruby.md)
 
 # Coding Guidelines
 - https://robots.thoughtbot.com/sandi-metz-rules-for-developers

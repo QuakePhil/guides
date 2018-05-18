@@ -17,3 +17,4 @@
 * [Practical object-oriented design in ruby (POODR)](http://www.poodr.com/)
 * [Eloquent Ruby](https://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104)
 * [Learn to Program](https://pine.fm/LearnToProgram/)
+* [Rails for PHP Developers](https://www.amazon.com/Rails-PHP-Developers-Pragmatic-Programmers/dp/1934356042)
